@@ -16,6 +16,11 @@
   }
 }
 
+
+.custom-container {
+  @apply max-w-[1280px] mx-auto;
+}
+
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
