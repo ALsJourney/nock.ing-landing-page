@@ -20,15 +20,14 @@ const Footer: React.FC = () => {
                             </li>
 
                             <li className="mt-4">
-
                             </li>
                         </ul>
                     </div>
 
                     <div>
-                    <Link href="https://app.nock.ing">
-                        <button className="bg-white text-black px-4 py-2 rounded">Open App</button>
-                    </Link>
+                        <Link href="https://app.nock.ing">
+                            <button className="bg-white text-black px-4 py-2 rounded">Open App</button>
+                        </Link>
                     </div>
                 </div>
             </div>
